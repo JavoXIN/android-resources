@@ -18,3 +18,5 @@
 - [RecyclerViewEvent](https://github.com/OCNYang/RecyclerViewEvent)
 - [SkeletonLayout](https://github.com/Faltenreich/SkeletonLayout) - Users are time-sensitive and may skip an app due to long loading times and missing visual feedback. Instagram, Facebook, Google and other services tackled this problem with the so-called Skeleton View. This view is being displayed during the process of fetching or requesting data asynchronously which leads to a perceivedly more responsive app.
 - [ShimmerRecyclerView 1](https://github.com/omtodkar/ShimmerRecyclerView) | [ShimmerRecyclerView 2](https://github.com/sharish/ShimmerRecyclerView) - A custom recycler view with shimmer views to indicate that views are loading. 
+- [SSExpandableRecyclerView](https://github.com/SimformSolutionsPvtLtd/SSExpandableRecylerView) - Expandable Recyclerview make it easy to integrate nested recyclerview.
+- [RecyclerCalendar](https://github.com/tejpratap46/RecyclerCalendarAndroid) - A DIY calendar generator library for android written in Kotlin.
