@@ -20,3 +20,4 @@
 - [ShimmerRecyclerView 1](https://github.com/omtodkar/ShimmerRecyclerView) | [ShimmerRecyclerView 2](https://github.com/sharish/ShimmerRecyclerView) - A custom recycler view with shimmer views to indicate that views are loading. 
 - [SSExpandableRecyclerView](https://github.com/SimformSolutionsPvtLtd/SSExpandableRecylerView) - Expandable Recyclerview make it easy to integrate nested recyclerview.
 - [RecyclerCalendar](https://github.com/tejpratap46/RecyclerCalendarAndroid) - A DIY calendar generator library for android written in Kotlin.
+- [Decorator](https://github.com/rubensousa/Decorator) - Decorator is a library that helps creating composable margins and dividers in RecyclerViews.
