@@ -1,9 +1,13 @@
 # UI libraries
 
 ### Button
-### RecyclerView 
-- [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) - RecyclerView Animators is an Android library that allows developers to easily create RecyclerView with animations.
-- [MultiType](https://github.com/drakeet/MultiType) - Easier and more flexible to create multiple types for Android RecyclerView.
+
+RecyclerView 
+======================
+Name | Desc | Demo
+--- | --- | ---
+[RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | RecyclerView Animators is an Android library that allows developers to easily create RecyclerView with animations. | <img src="https://raw.githubusercontent.com/wasabeef/recyclerview-animators/master/art/demo.gif" width="45%"> <img src="https://raw.githubusercontent.com/wasabeef/recyclerview-animators/master/art/demo5.gif " width="45%"> 
+[MultiType](https://github.com/drakeet/MultiType) | Easier and more flexible to create multiple types for Android RecyclerView. | <img src="https://camo.githubusercontent.com/68d977043c0ae51338418c740356c090453b1c523c2e064b1b0528ffeb249d07/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30362f30352f356231366161376438336165632e706e67" gravity = "center" width="45%">  <img src="https://camo.githubusercontent.com/6f08380eb8333ef24975d38329dd74d77933b6c6738b9ded48f7c8192ba4be5a/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30362f30352f356231366161383663353265372e706e67" gravity = "center" width="45%"> 
 - [Advanced RecyclerView](https://github.com/h6ah4i/android-advancedrecyclerview) - This RecyclerView extension library provides Google's Inbox app like swiping, Play Music app like drag-and-drop sorting and expandable item features. 
 - [FastAdapter](https://github.com/mikepenz/FastAdapter) - The FastAdapter is here to simplify creating adapters for RecyclerViews.
 - [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView.
